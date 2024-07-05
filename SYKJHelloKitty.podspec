@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/DSZ911226/SYKJHelloKitty.git", :tag => "#{spec.version}" }
 
 
-  spec.source_files = "SYKJHelloKitty/*.{swift}"
+  spec.source_files = "SYKJHelloKitty","SYKJHelloKitty/**/*.{swift}"
   spec.resources     = 'SYKJHelloKitty/resources/*.png'
 
   
