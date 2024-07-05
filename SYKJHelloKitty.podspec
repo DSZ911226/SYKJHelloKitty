@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "SYKJHelloKitty"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of SYKJHelloKitty.podpec."
+  spec.summary      = "个人使用库"
 
  
 
